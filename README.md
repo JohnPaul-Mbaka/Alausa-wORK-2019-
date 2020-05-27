@@ -1,2 +1,2 @@
-# Alausa-wORK-2019-
-A PHP Web Application for for governmental purpose
+# Alausa-worK-2019-
+A PHP Web Application using Yii framework
